@@ -4,7 +4,7 @@ import time
 import threading
 
 # ដាក់ Token របស់អ្នកនៅទីនេះ
-TOKEN = '9147462762:AAGFKUv9rJ2xr949n7bw4IwwdC6hKwdMZNM'
+TOKEN = '9147462762:AAHlgarHMiUIonPwhVgsREBhxUYbhQ_PTRA'
 bot = telebot.TeleBot(TOKEN)
 
 user_lang = {}
